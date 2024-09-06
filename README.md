@@ -1,1 +1,0 @@
-# Midterm_1_Jorge
