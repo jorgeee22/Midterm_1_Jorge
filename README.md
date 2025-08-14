@@ -1,1 +1,1 @@
-Midterm_1_Jorge
+This repository contains a project that consists on replicating a webpage using HTML and CSS. The project was part of the first evaluation of Desarrollo de Aplicaciones Web at Universidad Panamericana.
